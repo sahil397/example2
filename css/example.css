@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto", Arial, serif;
+  line-height: 1.8;
+  font-size: 16px;
+  background: #fff;
+  color: #848484;
+  font-weight: 300;
+  overflow-x: hidden;
+}
+#divMain
+{
+	width:1250px;
+	border:solid thin black;
+	/*Start***************<Vishav>*************************/
+	margin: auto;
+	/*End*****************<Vishav>*************************/
+}
+
+#divHeader
+{
+	width:1250px;
+	height:50px;
+	border:solid thin blue;
+}
+#divContent
+{
+	width:1250px;
+	height:400px;
+	border:solid thin blue;
+}
+#divContent1
+{
+	width:1250px;
+	height:400px;
+	border:solid thin blue;
+}
+
+
